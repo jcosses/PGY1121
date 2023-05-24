@@ -8,11 +8,8 @@ while True:
         vEdad = int(input("Ingrese su Edad: "))
     except:
         print("Valor no Corresponde")
-
-
 print("---------------------------")
 print(f"Su Nombres es: {vNom}")
 print(f"Su Edad es: {vEdad}")
-
-print("Pgrama Finalizado....")
-
+print("I LOVE FORTNITE")
+print("Programa Finalizado....")
